@@ -1,4 +1,4 @@
-import { UserData } from "@/app/signuppage/signupForm";
+import { UserData } from "@/app/signup/signupForm";
 import { connectToDatabase } from "@/app_library/db";
 import { hashPassword } from "@/app_library/auth";
 import { NextResponse } from "next/server";
