@@ -35,7 +35,7 @@ const Login = () => {
   return (
     <>
       <div className={classes.login} id="login__page">
-        <h1 className={classes.h1}>Securely log in to manage your health!</h1>
+        <h1 className={classes.h1}>Welcome Back, Please Login</h1>
         <Form />
 
         <p className={classes.p}>

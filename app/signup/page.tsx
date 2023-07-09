@@ -8,7 +8,7 @@ const SignUp = () => {
   return (
     <>
       <section className={classes.signup} id="signup">
-        <h1 className={classes.h1}>Start improving your health today!</h1>
+        <h1 className={classes.h1}>Kickstart Healthy Living!</h1>
         <SignUpForm />
         <p className={classes.p}>
           Already have an account?

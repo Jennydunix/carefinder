@@ -11,18 +11,14 @@ const About = () => {
               About Our Company
             </h2>
             <p className="text-tertiary_light_color tracking-widest text-2xl">
-              CareFinder is a user-friendly web application designed to make
-              hospital searches effortless and efficient. With CareFinder, users
-              can quickly locate and explore hospitals in their vicinity,
-              ensuring convenient access to quality healthcare services.
+              Carefinder is a platform where users can search for hosiptals in
+              their areas, export hospital details for your records and enhance
+              your healthcare experience by connecting with others and sharing
+              valuable resources.
             </p>
 
             <p className="text-tertiary_light_color tracking-widest text-2xl mt-4">
-              By simply entering their location or enabling GPS, users can
-              browse through a comprehensive database of hospitals, filtering
-              results based on specialties, ratings, and distance. The app
-              provides detailed information about each hospital, including
-              address, contact details, available services, and patient reviews.
+            Users can easily browse a comprehensive database of hospitals by entering their location or enabling GPS.Each hospital entry in the database provides extensive information, such as address, contact details etc. With these details at their fingertips, users can make informed decisions when selecting a hospital for their healthcare needs.
             </p>
           </div>
 
@@ -31,9 +27,7 @@ const About = () => {
               Our Vision
             </h2>
             <p className="text-tertiary_light_color tracking-widest text-2xl">
-              CareFinder aims to empower users with the ability to make informed
-              decisions about their healthcare needs, enhancing their overall
-              healthcare experience.
+            The primary goal of CareFinder is to empower users by equipping them with the necessary tools to make informed decisions regarding their healthcare needs. By doing so, CareFinder aims to enhance the overall healthcare experience for individuals, enabling them to take control of their health and well-being.
             </p>
           </div>
         </section>
